@@ -40,8 +40,9 @@
 ![Go](https://img.shields.io/badge/Go-0d1117?style=for-the-badge&logo=go&logoColor=22c55e)
 ![Rust](https://img.shields.io/badge/Rust-0d1117?style=for-the-badge&logo=rust&logoColor=22c55e)
 ![Java](https://img.shields.io/badge/Java-0d1117?style=for-the-badge&logo=openjdk&logoColor=22c55e)
+![Bash](https://img.shields.io/badge/Bash-0d1117?style=for-the-badge&logo=gnubash&logoColor=22c55e)
 ![Docker](https://img.shields.io/badge/Docker-0d1117?style=for-the-badge&logo=docker&logoColor=22c55e)
-![Arch](https://img.shields.io/badge/Arch_Linux-0d1117?style=for-the-badge&logo=arch-linux&logoColor=22c55e)
+![Exegol](https://img.shields.io/badge/Exegol-0d1117?style=for-the-badge&logo=kalilinux&logoColor=22c55e)
 ![VSCode](https://img.shields.io/badge/VSCode-0d1117?style=for-the-badge&logo=visual-studio-code&logoColor=22c55e)
 
 **[ Learning & Expanding ]**
@@ -51,6 +52,8 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=86efac)
 ![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=for-the-badge&logo=node.js&logoColor=86efac)
 ![React](https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=86efac)
+![Vue.js](https://img.shields.io/badge/Vue.js-0d1117?style=for-the-badge&logo=vuedotjs&logoColor=86efac)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=86efac)
 ![MySQL](https://img.shields.io/badge/MySQL-0d1117?style=for-the-badge&logo=mysql&logoColor=86efac)
 ![Unity](https://img.shields.io/badge/Unity-0d1117?style=for-the-badge&logo=unity&logoColor=86efac)
 ![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=86efac)
@@ -98,7 +101,6 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Jonathan-p-z/Jonathan-p-z/output/github-contribution-grid-snake.svg" />
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Jonathan-p-z/Jonathan-p-z/output/github-contribution-grid-snake-dark.svg" />
 </picture>
-
 
 </div>
 
@@ -149,4 +151,3 @@
 <br/>
 <img src="https://komarev.com/ghpvc/?username=Jonathan-p-z&style=flat-square&color=22c55e&label=visitors" />
 </div>
-
