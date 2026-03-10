@@ -85,8 +85,6 @@
 
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Yaiito&hide_border=true&bg_color=0d1117&title_color=22c55e&text_color=86efac&icon_color=22c55e&layout=compact" width="500"/>
 
-> ⚠️ *Requires [WakaTime](https://wakatime.com) plugin in VSCode — install it to see live coding stats here*
-
 </div>
 
 ---
