@@ -20,7 +20,7 @@
 ├─────────────────────────────────────────────────────────────┤
 │  Operator  :  Yaiito                                        │
 │  Role      :  Cybersecurity Student — Offensive Track       │
-│  Focus     :  Web dévelopement · Cybersécurity · Network    │
+│  Focus     :  Web development · Cybersécurity · Network     │
 │  Active on :  TryHackMe · HackTheBox · Root-Me              │
 │  OS        :  Ubuntu (btw)                                  │
 │  Status    :  [████████░░] Building skills in the dark      │
