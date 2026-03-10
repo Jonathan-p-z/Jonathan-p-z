@@ -101,7 +101,6 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Jonathan-p-z/Jonathan-p-z/output/github-contribution-grid-snake-dark.svg" />
 </picture>
 
-> ⚠️ *La snake nécessite la GitHub Action ci-dessous pour être générée*
 
 </div>
 
